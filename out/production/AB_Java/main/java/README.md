@@ -141,7 +141,7 @@ public class Exercitiul03_CardHarryPotter {
 
 ### **Pas 2: Urmează Setup-ul**
 
-👉 **Start**: [Setup Complet Windows](01-windows-setup/README.md)
+👉 **Start**: [Setup Complet Windows](windowsSetup/README.md)
 
 ### **Pas 3: Primul Exercițiu**
 
@@ -194,6 +194,6 @@ style: îmbunătățesc numele variabilelor
 
 **Gata să începi învățarea Java?**
 
-👉 **Următorul Pas**: [Setup Complet Windows](01-windows-setup/README.md)
+👉 **Următorul Pas**: [Setup Complet Windows](windowsSetup/README.md)
 
 _Să învățăm Java prin exerciții simple și distractive! 🎯_

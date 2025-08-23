@@ -479,7 +479,7 @@ După finalizare, ar trebui să poți:
 
 ### Următorii Pași:
 
-👉 **Continuă cu:** [Exercițiile de Variabile](../02-fundamentals/01-variables/README.md)
+👉 **Continuă cu:** [Exercițiile de Variabile](../fundamentals/variables/README.md)
 
 ---
 

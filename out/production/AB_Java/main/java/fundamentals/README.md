@@ -4,10 +4,10 @@
 
 ## 🔗 Lecții
 
-- [01-variables](01-variables/README.md)
-- [02-operators](02-operators/README.md)
-- [03-control](03-control/README.md)
-- [04-methods](04-methods/README.md)
+- [01-variables](variables/README.md)
+- [02-operators](operators/README.md)
+- [03-control](control/README.md)
+- [04-methods](methods/README.md)
 
 ## 🎯 Obiective
 

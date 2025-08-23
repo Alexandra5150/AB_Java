@@ -4,10 +4,10 @@ Vei construi conceptele OOP prin exerciții scurte: clase/obiecte, încapsulare,
 
 ## 🔗 Lecții
 
-- [01-classes](01-classes/README.md)
-- [02-encapsulation](02-encapsulation/README.md)
-- [03-inheritance](03-inheritance/README.md)
-- [04-polymorphism](04-polymorphism/README.md)
+- [01-classes](classes/README.md)
+- [02-encapsulation](encapsulation/README.md)
+- [03-inheritance](inheritance/README.md)
+- [04-polymorphism](polymorphism/README.md)
 
 ## 🎯 Obiective
 
