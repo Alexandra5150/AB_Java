@@ -1,7 +1,5 @@
 package main.java.OOPconcepts.classes;
 
-public class Ex24Afisare {
-
     /*
     ## 24) Exercitiul24_Afisare
 
@@ -24,6 +22,8 @@ Tips & Tricks:
 
      */
 
+
+public class Ex24Afisare {
 
     public static class CardHarry {
         public String nume;

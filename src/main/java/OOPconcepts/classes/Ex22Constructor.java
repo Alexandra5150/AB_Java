@@ -1,7 +1,5 @@
 package main.java.OOPconcepts.classes;
 
-public class Ex22Constructor {
-
     /*
     ## 22) Exercitiul22_Constructor
 
@@ -18,6 +16,8 @@ Explicații:
 
      */
 
+
+public class Ex22Constructor {
 
     public static class CardHarry {
         public String nume;

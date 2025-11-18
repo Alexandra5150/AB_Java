@@ -1,6 +1,5 @@
 package main.java.OOPconcepts.classes;
 
-public class Ex25ColectieObiecte {
 
     /*
     ## 25) Exercitiul25_ColecțieObiecte
@@ -17,6 +16,9 @@ De ce e util:
 
      */
 
+
+
+public class Ex25ColectieObiecte {
 
     public static class CardHarry {
         public String nume;

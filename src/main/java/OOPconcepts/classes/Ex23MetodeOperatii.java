@@ -1,7 +1,5 @@
 package main.java.OOPconcepts.classes;
 
-public class Ex23MetodeOperatii {
-
     /*
     ## 23) Exercitiul23_MetodeOperatii
 
@@ -18,6 +16,8 @@ Capcane:
 - Nu seta `puncte` direct în `main` pentru a simula operațiile; logica de modificare trebuie să fie în metodele clasei.
 - Evită valori magice: transmite parametrul `p` din `main`, nu scrie `puncte += 20;` direct în metodă.
      */
+
+public class Ex23MetodeOperatii {
 
     public static class CardHarry {
         public String nume;

@@ -1,7 +1,5 @@
 package main.java.OOPconcepts.classes;
 
-public class Ex21ClasaCardHarry {
-
     /*
     ## 21) Exercitiul21_ClasaCardHarry
 
@@ -28,6 +26,8 @@ Greșeli frecvente:
 
      */
 
+
+public class Ex21ClasaCardHarry {
 
     public static class CardHarry {
         public String nume;
